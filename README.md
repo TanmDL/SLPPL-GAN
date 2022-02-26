@@ -1,4 +1,4 @@
-# SLPPL_GAN
+# SLPPL-GAN
 This project handles imbalance classification problem by adversarial approach. 
 
 
