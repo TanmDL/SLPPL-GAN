@@ -1,7 +1,6 @@
 # SLPPL-GAN
-This project handles imbalance classification problem by adversarial approach. 
+This project handles the imbalance classification problem using an adversarial approach.
 
-
-We introduced two adversarail methods to handle class-imbalance problem by an end-to-end approch. 
+We introduced two adversarial methods to handle the class-imbalance problem using an end-to-end approach.
 
 I will publish the code once it is accepted.
